@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "katex", "mermaid", "anchors", "-mixpanel", "advanced-emoji",
+        "emphasize", "puml", "graph", "expandable-chapters-small", "anchors"
+    ]
+}
